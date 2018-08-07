@@ -1,3 +1,6 @@
 ## NuGet Handling
 
-- Direcotry.Build.targets
+Automatic detect
+
+- Directory.Build.targets
+- Directory.Build.props
